@@ -6,8 +6,6 @@ public class Mobile {
 	String brandName;
 	double screenSize;
 	
-	
-	
 	//behaviour
 	
 	public void showDetails() {
